@@ -1,0 +1,86 @@
+
+---Downloaded files---
+The import files for: Import Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\event-demo-importer/inc/ocdi/event.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\event-demo-importer/inc/ocdi/event-widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress\wp-content\plugins\event-demo-importer/inc/ocdi/event-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Text - About Us - Imported
+rpwe_widget - Recent Posts - Site does not support widget
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Display Contact Info at Header  : 
+
+TF: Contact Us - No Title - Imported
+
+Contact Page Sidebar : 
+
+Text - About Us - Imported
+TF: Contact Us - Contact Us - Imported
+
+Shortcode For Contact Page : 
+
+Text - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Cart - Cart - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product Categories - Imported
+Products - Products - Imported
+Products by Rating - Top Rated Products - Imported
+
+Footer Column 1 : 
+
+Text - Event - Imported
+
+Footer Column 2 : 
+
+Categories - Category - Imported
+
+Footer Column 3 : 
+
+rpwe_widget - Recent Posts - Site does not support widget
+
+Footer Column 4 : 
+
+TF: Contact Us - Contact Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
